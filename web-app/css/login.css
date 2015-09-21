@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+.login_menurtcnt,.login_footrz{background:url(../images/rongimg/rc_css.png)}
+
+.login_top{width:100%; height:19px; background:#000000;}
+.login_topcnt{width:990px; margin:0 auto;line-height:29px; color:#fff; }
+.login_menu{width:100%; height:64px;  border-bottom:solid 1px #bbbbbb;}
+.login_menucnt{width:990px; height:64px; margin: 0 auto;}
+.login_logo{ width:218px; height:57px; float:left; margin-top:7px}
+
+.login_menurt{width:320px; height:64px; float:right; position:relative;}
+.login_menurt ul{width:auto; height:35px; right:1px; bottom:-4px; position:absolute;}
+.login_menurt ul li{width:90px; float:left; height:32px; margin-left:10px; font-family:"微软雅黑"; font-size:18px; line-height:32px;}
+.login_menurt ul li a{width:90px; height:32px; color:#000; display:block;}
+.login_menurt ul li a:hover{width:90px; height:32px; color:#ff8601; display:block; text-decoration:none}
+.login_menurt ul li a.login_menurtcnt{ background-position:40px 24px; color:#ff8601; position:relative; }
+.login_ber{width:990px; height:415px; margin-top:15px; position:relative }
+
+.login_box{width:320px; height:300px; position:absolute; border:solid 1px #e2e3e7; border-radius: 5px; background: rgba(0, 0, 0, 0.4); filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr='#66000000',EndColorStr='#66000000');top:50px; right:60px; color:#fff;}
+.login_tab tr td{
+	line-height:40px; padding-left:5px; border-collapse:collapse;
+}
+.login_input{
+	width:180px; height:25px; border:solid 1px #9c9c9c; line-height:25px;
+}
+.login_yxm{
+	width:40px; height:25px; border:solid 1px #9c9c9c; line-height:25px;
+}
+.login_btn{
+	background:url(../images/rongimg/login_btn.gif) no-repeat; width:107px; height:42px; display:block; float:left; border:none; cursor:pointer;
+}
+.login_btn a:hover{
+	background:url(../images/rongimg/login_btnhover.gif) no-repeat; display:block;
+}
+.pop-login-wrap{ float: left; margin-top:5px; margin-left:20px;}
+.biaoti{
+	line-height:30px; padding-left:0px; padding-top:20px; color:#fff;
+}
+.advisory-phone{
+	color:#fff;	border-top:dashed 1px #ccc; text-align:right;	float:left; width:260px; margin-top:10px; height:30px; line-height:30px;
+}
+.advisory-phone a{color:#fff; text-decoration:none}
+.login_tjfw{width:990px; height:20px; margin-top:15px; border-bottom:solid 3px #0a386a; text-align:left; font-family:"微软雅黑"; line-height:20px;}
+.pra-intro{width:990px;height:175px;  background:url(../images/rongimg/tjfw.gif) bottom repeat-x}
+.pra-intro-con{width:329px;height:175px;float:left;}
+
+.login_hzjg{width:990px; height:150px; margin-top:15px;}
+.login_hzyh{width:665px; height:135px; float:left;}
+.login_hzyh h1{ border-bottom:solid 3px #0a386a; text-align:left; font-family:"微软雅黑"; line-height:20px; font-weight:normal;}
+.login_hzyh ul{width:auto; height:auto; float:left;}
+.login_hzyh ul li{width:127px; height:40px; float:left; margin-right:4px; margin-top:5px;}
+
+.login_gg{width:310px; height:135px; float:right;}
+.login_gg h1{ border-bottom:solid 3px #0a386a; text-align:left; font-family:"微软雅黑"; line-height:20px; font-weight:normal;}
+
+
+.login_footbox{width:990px; height:40px; margin-top:20px; border-top:solid 1px #ccc;}
+.login_footbox p{line-height:25px; color:#666; text-align:center;}
+.login_footrz{ background-position:450px -11px; width:990px; height:40px;}
+.login_cuowu{background:url(../images/rongimg/cuowu.gif); width:266px; height:23px; float:left; line-height:23px; text-align:left; margin-left:20px; color:#000}
+.login_cuowu p{padding-left:25px;}
+.login_zhengque{background:url(../images/rongimg/zhengque.gif); width:266px; height:23px; float:left; line-height:23px; text-align:left; margin-left:20px; color:#000}
+.login_zhengque p{padding-left:25px;}

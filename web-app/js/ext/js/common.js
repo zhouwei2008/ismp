@@ -1,0 +1,1 @@
+var ajaxTimeOut = 300;

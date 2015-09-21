@@ -1,0 +1,72 @@
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://www.ericmmartin.com/projects/simplemodal/
+ * http://code.google.com/p/simplemodal/
+ *
+ * Copyright (c) 2010 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ * Revision: $Id: basic.css 242 2010-03-14 00:55:02Z emartin24 $
+ *
+ */
+
+#basic-modal-content {display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#FAFAFA; cursor:default;}
+
+/* Container */
+
+#simplemodal-container a.modalCloseImg {
+	background:url(./x2.png) no-repeat;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='scale', src="/pfs/page/js/simplemodal/x2.png");
+    _background:none;
+	width:25px; 
+	height:29px; 
+	display:inline; 
+	z-index:3200; 
+	position:absolute; 
+	top:-15px; 
+	right:-16px; 
+	cursor:pointer;
+}
+#simplemodal-container #basic-modal-content {padding:8px;}
+
+.backMessegeTitle {
+	height:25px;
+	background: #FFFFFF url(./lessGridTitle.gif) repeat-x;
+}
+.backMessegeCon {
+	width:500px;
+	height:160px;
+	border-left:none;
+	border-right:none;
+	border-bottom:none;
+	border-top:solid 1px #01649D;
+}
+.backMessegeCon2 {
+	width:500px;
+	height:150px;
+	border-left:none;
+	border-right:none;
+	border-bottom:solid 1px #01649D;
+	border-top:solid 1px #01649D;
+}
+.biaoti {
+	font-size: 16px ;
+	margin-left:2px;
+	font-weight:bolder;
+	font-family:Arial, sans-serif,宋体;
+	color:#01649D;
+}
+.Con {
+	border:solid 1px #01649D;
+}
+.showNum {
+	float: left;
+	*margin-left:195px;
+	-margin-left:95px;
+	margin-top:5px;
+}

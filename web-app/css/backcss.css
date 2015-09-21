@@ -1,0 +1,8 @@
+.blk_29 { OVERFLOW: hidden; ZOOM: 1;BORDER: #d2d2d2 1px solid;  POSITION: relative}
+.blk_29 .LeftBotton {	BACKGROUND: url(../images/ca_hz_002.gif) no-repeat 0px -32px; LEFT: 0px; FLOAT: left; WIDTH: 11px; CURSOR: pointer; POSITION: absolute; TOP: 1px; HEIGHT: 40px}
+.blk_29 .RightBotton {	RIGHT: 0px; BACKGROUND: url(../images/ca_hz_002.gif) no-repeat -11px -32px; FLOAT: right; WIDTH: 11px; CURSOR: pointer; POSITION: absolute; TOP: 1px; HEIGHT:40px}
+.blk_29 .Cont {	OVERFLOW: hidden; WIDTH: 700px; MARGIN: 0px auto;}
+.blk_29 .box {	FLOAT: left; WIDTH: 127px; TEXT-ALIGN: center; margin-right:10px;}
+.blk_29 .box IMG {DISPLAY: block; BACKGROUND: #fff; MARGIN: 0px auto; }
+.blk_29 .box A:hover IMG {	BORDER: #5385cc 1px solid; }
+.blk_29 .box P {WIDTH: 127px; LINE-HEIGHT: 20px}
